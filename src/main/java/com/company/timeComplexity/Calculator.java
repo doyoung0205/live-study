@@ -1,5 +1,8 @@
 package com.company.timeComplexity;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Calculator {
 
     // n 번 까지의 자연수의 합을 구하는 기능
